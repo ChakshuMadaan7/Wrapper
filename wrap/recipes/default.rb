@@ -7,5 +7,5 @@
 
 include_recipe 'wrap::pyth'
 #include_recipe 'wrap::apach'
-#include_recipe 'wrap::tom'
+include_recipe 'wrap::tom'
 
